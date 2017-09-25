@@ -13,9 +13,6 @@
     </head>
     <body>
         <h3>welcome to web application integration with git to jenkins server</h3>
-        <h4> welcome tomcat server  </h4>
-          <h4> welcome .git war file deployed into tomcat server  </h4>
-          <h4> welcome git server  </h4>
-          <h4> welcome git server1  </h4>
+        
     </body>
 </html>
